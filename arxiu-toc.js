@@ -9,6 +9,8 @@ for (var i=0; i< h2.length; i++){
 }
 
 
+var x=0;
+
 for( i=0; i< icariaTitle.length; i++){
     var link = document.createElement( "a");
     link.setAttribute( "name");
